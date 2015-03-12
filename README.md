@@ -1,3 +1,4 @@
+I love les poneys
 Manastria : cours Git
 =====================
 
